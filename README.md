@@ -1,12 +1,12 @@
 ## 目录
-- [AISkillfy - 开放标准AI Agent技能生态平台](#aiskillfy---开放标准ai-agent技能生态平台)
+- [AISkillfy - AI Agent技能生态平台](#aiskillfy---ai-agent技能生态平台)
 - [核心功能](#✨-核心功能)
 - [Skill分类（持续更新）](#📊-skill分类持续更新)
 - [项目特色](#🌟-项目特色)
 - [参与共建](#🤝-参与共建)
 - [免责声明](#📝-免责声明)
 
-### AISkillfy - 开放标准AI Agent技能生态平台
+### AISkillfy - AI Agent技能生态平台
 AISkillfy 是一个AI Agent技能生态平台，专注于提供标准化、可共享、可直接调用的Prompt Skill，搭配强大的嵌入式AI助手，打造「技能商城+文档知识库+个人Agent空间」的完整闭环，助力开发者快速落地AI Agent应用，降低技能开发与使用门槛。
 📌 官网地址：`[AISkillfy](https://www.aiskillfy.com)`
 
